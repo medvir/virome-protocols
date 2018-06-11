@@ -83,7 +83,7 @@
 
 ## Release History
 
-* [2.1.0](https://github.com/medvir/virome-protocols/releases/tag/v2.0.0)
+* [2.1.0](https://github.com/medvir/virome-protocols/releases/tag/v2.1.0)
     * DNA/RNA split workflow including DNase treatment in RNA workflow
     * always purify 2nd strand synthesis products
 * [2.0.0](https://github.com/medvir/virome-protocols/releases/tag/v2.0.0)
