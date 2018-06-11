@@ -77,5 +77,5 @@
 * Follow Nextera XT standard protocol and sequence 151 cycles on the MiSeq
 
 ## Release History
-* 1.0.0
+* [1.0.0](https://github.com/medvir/virome-protocols/releases/tag/v1.0.0)
     * published virome-protocol, including DNA/RNA split workflow and anker PCR
