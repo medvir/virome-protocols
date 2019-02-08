@@ -20,7 +20,7 @@
 
 ## Nucleic acid extraction
 ### Material
-* 1 mL nuclease treated- or untreated sample
+* 1 mL sample
 * Pipettes and tips
 * 1.5 mL tubes
 * [NucliSENS easyMag](http://www.biomerieux-usa.com/clinical/nuclisens-easymag) (bioMérieux)
