@@ -77,13 +77,15 @@
 
 ### Procedure
 * Fill in and follow instructions in [SSIV_standard_split.xltx](SSIV_standard_split.xltx)
-* Purify 2nd strand synthesis products with AMPure beads (20 µL DNA + 60 µL Beads, wash 2x with 80% Ethanol, dry Beads, elute DNA in 20 µL Water)
+* Purify total volume of 2nd strand synthesis products with 2x AMPure beads (20/30 µL DNA + 40/60 µL Beads, wash 2x with 80% Ethanol, dry Beads, elute DNA in 20 µL Water)
 * Quantify DNA in 2nd strand synthesis products (**Note: if unpurified, quantification might be too high**)
 * If purified 2nd strand synthesis products were below 0.2 ng/µL, 5 µL undiluted products were used for Nextera XT library preparation
 * Follow Nextera XT standard protocol and sequence 151 cycles on the MiSeq
 
 ## Release History
 
+* [2.2.0](https://github.com/medvir/virome-protocols/releases/tag/v2.2.0)
+    * reduce ratio of AMPure beads from 3x to 2x for purification of 2nd strand synthesis products
 * [2.1.1](https://github.com/medvir/virome-protocols/releases/tag/v2.1.1)
     * describe centrifugation step before filtration
 * [2.1.0](https://github.com/medvir/virome-protocols/releases/tag/v2.1.0)
