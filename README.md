@@ -14,6 +14,7 @@
 * Container, 8 mL or 25 mL
 
 ### Procedure
+* Centrifuge sample and use supernatant to remove cells (e.g. WBC and RBC in case of blood) or other solids
 * With syringe aspirate the sample and press through filter in a new container
 * Replace filter when clogged
 
@@ -83,6 +84,8 @@
 
 ## Release History
 
+* [2.1.1](https://github.com/medvir/virome-protocols/releases/tag/v2.1.1)
+    * describe centrifugation step before filtration
 * [2.1.0](https://github.com/medvir/virome-protocols/releases/tag/v2.1.0)
     * DNA/RNA split workflow including DNase treatment in RNA workflow
     * always purify 2nd strand synthesis products
