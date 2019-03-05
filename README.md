@@ -27,7 +27,7 @@
 
 ### Procedure
 * from 1 mL sample extract total nucleic acid and elute in 25 µL using the NucliSENS easyMag
-* store extract at -20°C
+* store extract at -20°C or proceed immediately
 
 ## DNase treatment
 ### Reagents
@@ -41,11 +41,11 @@
 * Centrifuge
 
 ### Procedure
-* Combine 5 µL DNA/RNA extract, 1.2 µL 10✕ TURBO DNase Buffer and 1 µL TURBO DNase (2 U)
+* Combine 10 µL DNA/RNA extract, 1.2 µL 10✕ TURBO DNase Buffer and 1 µL TURBO DNase (2 U)
 * Incubate at 37°C for 20 min
 * Add 2 µL resuspended DNase Inactivation Reagent
 * Incubate 5 min at room temperature, mixing occasionally
-* Centrifuge at 10'000 g for 1.5 min and transfer the RNA to a fresh tube
+* Centrifuge at 10'000 g for 1.5 min and transfer the RNA (supernatant) to a fresh tube
 
 ## SSIV split protocol (RT and 2nd strand synthesis)
 ### Reagents
@@ -83,7 +83,9 @@
 * Follow Nextera XT standard protocol and sequence 151 cycles on the MiSeq
 
 ## Release History
-
+* [2.2.1](https://github.com/medvir/virome-protocols/releases/tag/v2.2.1)
+    * fix mistake, use 10 µL DNA/RNA extract for DNase treatment, not 5 µL
+    * note that after extraction one could also proceed immediately
 * [2.2.0](https://github.com/medvir/virome-protocols/releases/tag/v2.2.0)
     * reduce ratio of AMPure beads from 3x to 2x for purification of 2nd strand synthesis products
 * [2.1.1](https://github.com/medvir/virome-protocols/releases/tag/v2.1.1)
